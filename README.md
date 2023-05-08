@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedstacks-and-queues-using-linked-lists
+<br>
+You will now look at Stacks and Queues using linked lists. Complete the following for this assignment:Create a flowchart to show the process that will allow the implementation of Stack, Push, and Pop operations.Create a flowchart to show the process that will allow the implementation of Queue, Enqueue, and Dequeue operations.Write the required C# codes (and functions) to implement either a Stack or a Queuedata structure.
